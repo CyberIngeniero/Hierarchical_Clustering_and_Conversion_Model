@@ -2,7 +2,7 @@
 - Desarrollo de Nuevos Clusters por Marca Modelo para una compañia de seguros.
 - Se utilizó como metodología agglomerative hierarchical clustering y Kmeans.
 
-# Modelo de Propensión de Compra
+# Modelo de Conversion
 - Análisis y Desarrollo de Modelo de propension de compra.
 - Se utilizan  metodologías:
     - Desicion Tree Clasiffier
