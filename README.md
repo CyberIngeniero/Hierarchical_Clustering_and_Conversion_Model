@@ -3,7 +3,7 @@
 - Se utilizó como metodología agglomerative hierarchical clustering y Kmeans.
 
 # Modelo de Conversion
-- Análisis y Desarrollo de Modelo de propension de compra.
+- Análisis y Desarrollo de Modelo de Conversion.
 - Se utilizan  metodologías:
     - Desicion Tree Clasiffier
     - XGBoost implementado con Optimización Bayesiana de Hyperparametros
